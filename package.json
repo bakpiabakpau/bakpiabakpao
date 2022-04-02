@@ -1,0 +1,23 @@
+{
+  "name": "bakpiabakpao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhandardiri/bakpiabakpao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhandardiri/bakpiabakpao/issues"
+  },
+  "homepage": "https://github.com/farhandardiri/bakpiabakpao#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
